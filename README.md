@@ -77,9 +77,9 @@ I’m a dedicated software engineer who loves turning ideas into reality. My pri
 
 ## 🤝 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/mustak-ahmed-2b70aaa4/)  
+- **LinkedIn**: [Musak Ahmed](https://www.linkedin.com/in/mustak-ahmed-2b70aaa4/)  
 - **GitHub**: [@MustakAhmedcse](https://github.com/MustakAhmedcse)  
-- **Email**: [your.email@example.com](mailto:getmustakcse@gmail.com)  
+- **Email**: [getmustakcse@gmail.com](mailto:getmustakcse@gmail.com)  
 
 ---
 
