@@ -24,7 +24,7 @@ Place this README.md in a repo named exactly the same as your username.
 
 I’m a dedicated software engineer who loves turning ideas into reality. My primary focus has been on **.NET MVC** for building dynamic, user-friendly, and secure applications. Over the years, I’ve worked in **agile environments**, designed **high-performance databases**, executed **complex queries** for large data sets, and ensured efficient deployments across various servers. My passion is solving real-world problems with reliable and maintainable code—and now, with **AI** and **prompt engineering** tools in my arsenal, I’m exploring new frontiers in smart application development.
 
-- 📍 Based in: **[“Global”]**  
+- 📍 Based in: **Global**  
 - 🌱 Currently learning: **LLM based Application Development** and **Microservices Architecture**  
 - ⚡ Fun fact: When I’m not coding, you’ll find me exploring new **reading material**, or enjoying time with family and friends!
 
