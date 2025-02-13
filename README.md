@@ -12,7 +12,7 @@ Place this README.md in a repo named exactly the same as your username.
 <br />
 
 - 🏆 **Full Stack Developer** with **8 years of real-world experience** building enterprise and web applications.  
-- 💻 **Expert in .NET Framework (MVC)**, with additional skills in **C#**, **JavaScript**, **Entity Framework**, **SQL**, **HTML/CSS**, and more.  
+- 💻 **Expert in .NET Core**, with additional skills in **C#**, **JavaScript**, **Entity Framework**, **SQL**, **HTML/CSS**, and more.  
 - 🤖 Proficient in **AI-based design and development** and **prompt engineering**, creating intelligent applications and solutions.  
 - 🗄️ Skilled in **Database design** and writing **complex SQL queries** for **large volumes of data** in **real-life corporate environments**.  
 - 🚀 Enjoy working on **scalable**, **robust** solutions, leveraging best practices in **software architecture** and **design patterns**.  
@@ -22,7 +22,7 @@ Place this README.md in a repo named exactly the same as your username.
 
 ## ✨ About Me
 
-I’m a dedicated software engineer who loves turning ideas into reality. My primary focus has been on **.NET MVC** for building dynamic, user-friendly, and secure applications. Over the years, I’ve worked in **agile environments**, designed **high-performance databases**, executed **complex queries** for large data sets, and ensured efficient deployments across various servers. My passion is solving real-world problems with reliable and maintainable code—and now, with **AI** and **prompt engineering** tools in my arsenal, I’m exploring new frontiers in smart application development.
+I’m a dedicated software engineer who loves turning ideas into reality. My primary focus has been on **.NET Core** for building dynamic, user-friendly, and secure applications. Over the years, I’ve worked in **agile environments**, designed **high-performance databases**, executed **complex queries** for large data sets, and ensured efficient deployments across various servers. My passion is solving real-world problems with reliable and maintainable code—and now, with **AI** and **prompt engineering** tools in my arsenal, I’m exploring new frontiers in smart application development.
 
 - 📍 Based in: **Global**  
 - 🌱 Currently learning: **LLM based Application Development** and **Microservices Architecture**  
