@@ -6,7 +6,7 @@ Place this README.md in a repo named exactly the same as your username.
 # Hello, I'm Mustak Ahmed! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&width=435&lines=Full+Stack+Software+Engineer;8%2B+Years+of+Professional+Experience;Expert+in+.NET+Framework+(MVC);AI%2C+Prompting%2C+Database+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&width=435&lines=Full+Stack+Software+Engineer;8%2B+Years+of+Professional+Experience;Expert+in+.NET+Core;AI%2C+Prompting%2C+Database+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br />
@@ -24,8 +24,8 @@ Place this README.md in a repo named exactly the same as your username.
 
 I’m a dedicated software engineer who loves turning ideas into reality. My primary focus has been on **.NET MVC** for building dynamic, user-friendly, and secure applications. Over the years, I’ve worked in **agile environments**, designed **high-performance databases**, executed **complex queries** for large data sets, and ensured efficient deployments across various servers. My passion is solving real-world problems with reliable and maintainable code—and now, with **AI** and **prompt engineering** tools in my arsenal, I’m exploring new frontiers in smart application development.
 
-- 📍 Based in: **[Your Location or “Global”]**  
-- 🌱 Currently learning: **Azure** and **microservices architecture**  
+- 📍 Based in: **[“Global”]**  
+- 🌱 Currently learning: **LLM based Application Development** and **Microservices Architecture**  
 - ⚡ Fun fact: When I’m not coding, you’ll find me exploring new **reading material**, or enjoying time with family and friends!
 
 ---
